@@ -61,6 +61,12 @@ to your machine environment.
 - 6) Download the [PA3 skeleton codes](https://github.com/cvpa3/pa3).
 - 7) Open “init.m” in the skeleton codes and set every path required.
 
+##Utilize our open discussion channel.##
+You can utilize ["Issues" board](https://github.com/cvpa3/pa3/issues) as a site for an open discussion, like Stack Overflow. Do not feel embarrassed to ask! If you have any questions regarding the PA, post in this board. Others, who can give a tip to the questions, reply to the questions. There is no limitation on the discussion subjects.
+- **EXTRA CREDITS** will be given to those who actively participate in discussions, especially to those who actively answer to other students' questions.
+- When posting (both questions and answers), please write YOUR STUDENT ID so I can recognize who you are and give credits.
+- When you post a reply, DO NOT COPY AND PASTE YOUR SOURCE CODE.
+
 ##Submission.##
 Tentative due date is **December 4, 2015**.
 Submit your PA3 to dgyoo@rcv.kaist.ac.kr with the following attachments.

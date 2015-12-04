@@ -1,7 +1,7 @@
 ##(NEW) About the due date.##
 TA strongly recommend you to completely finish all items in this PA even after the due date.
 Higher grade will be given to a completed PA after the due date than an incomplete PA.
-I will accept submissions until 20 Dec, but will give you small penalty.
+I will accept submissions until 20 Dec, but will give penalty.
 
 ##(NEW) A [leader board](https://docs.google.com/spreadsheets/d/1tV67MSfChC-ah2gn2GU4pQNehc66Pkp4ROgfKyU9WSo/edit?usp=sharing) is opened!##
 Please report your scores on this [leader board](https://docs.google.com/spreadsheets/d/1tV67MSfChC-ah2gn2GU4pQNehc66Pkp4ROgfKyU9WSo/edit?usp=sharing) to share the results.

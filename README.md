@@ -1,5 +1,6 @@
 ##(NEW) A [leader board](https://docs.google.com/spreadsheets/d/1tV67MSfChC-ah2gn2GU4pQNehc66Pkp4ROgfKyU9WSo/edit?usp=sharing) is opened!##
 Please report your scores on this [leader board](https://docs.google.com/spreadsheets/d/1tV67MSfChC-ah2gn2GU4pQNehc66Pkp4ROgfKyU9WSo/edit?usp=sharing) to share the results.
+I thank Yukyung Choi, RCV Lab. for making this board.
 
 #PA3) Image Representations with a Pre-trained Deep Convolutional Neural Network.
 We have three tasks in PA3 including 1) image representations, 2) their applications, and 3) a report. 
